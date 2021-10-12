@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/prakash/Desktop/operator_overloading/build",
+  "command": "/bin/c++   -g -std=gnu++17 -o CMakeFiles/mystring.dir/main.cpp.o -c /home/prakash/Desktop/operator_overloading/main.cpp",
+  "file": "/home/prakash/Desktop/operator_overloading/main.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/operator_overloading/build",
+  "command": "/bin/c++   -g -std=gnu++17 -o CMakeFiles/mystring.dir/mystring.cpp.o -c /home/prakash/Desktop/operator_overloading/mystring.cpp",
+  "file": "/home/prakash/Desktop/operator_overloading/mystring.cpp"
+}
+]
