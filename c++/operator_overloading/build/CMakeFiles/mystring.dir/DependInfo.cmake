@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/prakash/Desktop/operator_overloading/main.cpp" "CMakeFiles/mystring.dir/main.cpp.o" "gcc" "CMakeFiles/mystring.dir/main.cpp.o.d"
-  "/home/prakash/Desktop/operator_overloading/mystring.cpp" "CMakeFiles/mystring.dir/mystring.cpp.o" "gcc" "CMakeFiles/mystring.dir/mystring.cpp.o.d"
+  "C:/Users/praka/Desktop/operator_overloading/main.cpp" "CMakeFiles/mystring.dir/main.cpp.obj" "gcc" "CMakeFiles/mystring.dir/main.cpp.obj.d"
+  "C:/Users/praka/Desktop/operator_overloading/mystring.cpp" "CMakeFiles/mystring.dir/mystring.cpp.obj" "gcc" "CMakeFiles/mystring.dir/mystring.cpp.obj.d"
   )
 
 # Targets to which this target links.

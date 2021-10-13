@@ -5,7 +5,6 @@
 		}
 	],
 	"settings": {
-		
 		"files.associations": {
 			"chrono": "cpp",
 			"ostream": "cpp",
@@ -55,12 +54,6 @@
 			"stdexcept": "cpp",
 			"streambuf": "cpp",
 			"typeinfo": "cpp"
-		},
-		
-		"launch": {
-
-			"configurations": [],
-			"compounds": []
 		}
 	},
 }

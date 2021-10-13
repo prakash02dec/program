@@ -1,5 +1,5 @@
-/home/prakash/Desktop/operator_overloading/build/CMakeFiles/edit_cache.dir
-/home/prakash/Desktop/operator_overloading/build/CMakeFiles/package_source.dir
-/home/prakash/Desktop/operator_overloading/build/CMakeFiles/rebuild_cache.dir
-/home/prakash/Desktop/operator_overloading/build/CMakeFiles/package.dir
-/home/prakash/Desktop/operator_overloading/build/CMakeFiles/mystring.dir
+C:/Users/praka/Desktop/operator_overloading/build/CMakeFiles/mystring.dir
+C:/Users/praka/Desktop/operator_overloading/build/CMakeFiles/package.dir
+C:/Users/praka/Desktop/operator_overloading/build/CMakeFiles/package_source.dir
+C:/Users/praka/Desktop/operator_overloading/build/CMakeFiles/edit_cache.dir
+C:/Users/praka/Desktop/operator_overloading/build/CMakeFiles/rebuild_cache.dir

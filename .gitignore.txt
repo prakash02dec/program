@@ -1,0 +1,7 @@
+# vscode
+*.vscode
+*.code-workspace
+# Executables
+*.exe
+*.out
+*.app
