@@ -1,1 +1,0 @@
-/bin/c++ -g -rdynamic CMakeFiles/enter.dir/main.cpp.o CMakeFiles/enter.dir/Savings_Account.cpp.o CMakeFiles/enter.dir/Account_Util.cpp.o CMakeFiles/enter.dir/Account.cpp.o CMakeFiles/enter.dir/Checking_Accounts.cpp.o CMakeFiles/enter.dir/Trust_Account.cpp.o -o enter 

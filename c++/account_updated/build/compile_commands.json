@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/prakash/Desktop/program/c++/account/build",
+  "command": "/bin/c++   -g -o CMakeFiles/enter.dir/main.cpp.o -c /home/prakash/Desktop/program/c++/account/main.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account/main.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account/build",
+  "command": "/bin/c++   -g -o CMakeFiles/enter.dir/Savings_Account.cpp.o -c /home/prakash/Desktop/program/c++/account/Savings_Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account/Savings_Account.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account/build",
+  "command": "/bin/c++   -g -o CMakeFiles/enter.dir/Account_Util.cpp.o -c /home/prakash/Desktop/program/c++/account/Account_Util.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account/Account_Util.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account/build",
+  "command": "/bin/c++   -g -o CMakeFiles/enter.dir/Account.cpp.o -c /home/prakash/Desktop/program/c++/account/Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account/Account.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account/build",
+  "command": "/bin/c++   -g -o CMakeFiles/enter.dir/Checking_Accounts.cpp.o -c /home/prakash/Desktop/program/c++/account/Checking_Accounts.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account/Checking_Accounts.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account/build",
+  "command": "/bin/c++   -g -o CMakeFiles/enter.dir/Trust_Account.cpp.o -c /home/prakash/Desktop/program/c++/account/Trust_Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account/Trust_Account.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account/build",
+  "command": "/bin/c++   -g -o CMakeFiles/enter.dir/I_Account.cpp.o -c /home/prakash/Desktop/program/c++/account/I_Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account/I_Account.cpp"
+}
+]
