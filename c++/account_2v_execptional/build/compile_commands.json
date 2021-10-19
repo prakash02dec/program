@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
+  "command": "/bin/c++   -g -o CMakeFiles/Account_Exceptional.dir/main.cpp.o -c /home/prakash/Desktop/program/c++/account_2v_execptional/main.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account_2v_execptional/main.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
+  "command": "/bin/c++   -g -o CMakeFiles/Account_Exceptional.dir/Savings_Account.cpp.o -c /home/prakash/Desktop/program/c++/account_2v_execptional/Savings_Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account_2v_execptional/Savings_Account.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
+  "command": "/bin/c++   -g -o CMakeFiles/Account_Exceptional.dir/Account_Util.cpp.o -c /home/prakash/Desktop/program/c++/account_2v_execptional/Account_Util.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account_2v_execptional/Account_Util.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
+  "command": "/bin/c++   -g -o CMakeFiles/Account_Exceptional.dir/Account.cpp.o -c /home/prakash/Desktop/program/c++/account_2v_execptional/Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account_2v_execptional/Account.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
+  "command": "/bin/c++   -g -o CMakeFiles/Account_Exceptional.dir/Checking_Account.cpp.o -c /home/prakash/Desktop/program/c++/account_2v_execptional/Checking_Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account_2v_execptional/Checking_Account.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
+  "command": "/bin/c++   -g -o CMakeFiles/Account_Exceptional.dir/Trust_Account.cpp.o -c /home/prakash/Desktop/program/c++/account_2v_execptional/Trust_Account.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account_2v_execptional/Trust_Account.cpp"
+},
+{
+  "directory": "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
+  "command": "/bin/c++   -g -o CMakeFiles/Account_Exceptional.dir/I_Printable.cpp.o -c /home/prakash/Desktop/program/c++/account_2v_execptional/I_Printable.cpp",
+  "file": "/home/prakash/Desktop/program/c++/account_2v_execptional/I_Printable.cpp"
+}
+]
