@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/praka/Desktop/movie/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\Enter.dir\\main.cpp.obj -c C:\\Users\\praka\\Desktop\\movie\\main.cpp",
+  "file": "C:/Users/praka/Desktop/movie/main.cpp"
+},
+{
+  "directory": "C:/Users/praka/Desktop/movie/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\Enter.dir\\movies.cpp.obj -c C:\\Users\\praka\\Desktop\\movie\\movies.cpp",
+  "file": "C:/Users/praka/Desktop/movie/movies.cpp"
+},
+{
+  "directory": "C:/Users/praka/Desktop/movie/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\Enter.dir\\movie.cpp.obj -c C:\\Users\\praka\\Desktop\\movie\\movie.cpp",
+  "file": "C:/Users/praka/Desktop/movie/movie.cpp"
+}
+]

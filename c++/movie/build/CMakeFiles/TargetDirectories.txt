@@ -1,0 +1,5 @@
+C:/Users/praka/Desktop/movie/build/CMakeFiles/rebuild_cache.dir
+C:/Users/praka/Desktop/movie/build/CMakeFiles/Enter.dir
+C:/Users/praka/Desktop/movie/build/CMakeFiles/package.dir
+C:/Users/praka/Desktop/movie/build/CMakeFiles/package_source.dir
+C:/Users/praka/Desktop/movie/build/CMakeFiles/edit_cache.dir
