@@ -16,6 +16,7 @@ void display(const std::map<T1, T2> &l) {
 
 int main() {
 	int T;
+	std::cout<<"enter : ";
 	std::cin >> T;
 	while(T--){
 	    std::map<int , int> marks_freq;
