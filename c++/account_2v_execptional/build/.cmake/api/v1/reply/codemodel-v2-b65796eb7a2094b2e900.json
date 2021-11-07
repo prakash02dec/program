@@ -6,7 +6,6 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.0.0"
@@ -39,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Account_Exceptional::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Account_Exceptional-Debug-7c619f44c6b1864a2cd4.json",
+					"jsonFile" : "target-Account_Exceptional-Debug-b8abe3de59b8406c1fba.json",
 					"name" : "Account_Exceptional",
 					"projectIndex" : 0
 				}
@@ -49,12 +48,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/prakash/Desktop/program/c++/account_2v_execptional/build",
-		"source" : "/home/prakash/Desktop/program/c++/account_2v_execptional"
+		"build" : "C:/Users/praka/OneDrive/Desktop/program/c++/account_2v_execptional/build",
+		"source" : "C:/Users/praka/OneDrive/Desktop/program/c++/account_2v_execptional"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 2
 	}
 }

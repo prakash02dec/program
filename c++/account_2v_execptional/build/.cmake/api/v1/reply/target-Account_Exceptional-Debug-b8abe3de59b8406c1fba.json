@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Account_Exceptional"
+			"path" : "Account_Exceptional.exe"
+		},
+		{
+			"path" : "Account_Exceptional.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -10,7 +13,8 @@
 	{
 		"commands" : 
 		[
-			"add_executable"
+			"add_executable",
+			"target_compile_features"
 		],
 		"files" : 
 		[
@@ -26,6 +30,12 @@
 				"file" : 0,
 				"line" : 7,
 				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
 			}
 		]
 	},
@@ -36,9 +46,20 @@
 			[
 				{
 					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
 				}
 			],
 			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "17"
+			},
 			"sourceIndexes" : 
 			[
 				0,
@@ -61,14 +82,18 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-rdynamic",
+				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "Account_Exceptional",
-	"nameOnDisk" : "Account_Exceptional",
+	"nameOnDisk" : "Account_Exceptional.exe",
 	"paths" : 
 	{
 		"build" : ".",
