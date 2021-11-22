@@ -1,0 +1,1 @@
+{"name":"Local: PALSUM","url":"c:\\Users\\praka\\OneDrive\\Desktop\\program\\PALSUM.cpp","tests":[{"id":1637599456552,"input":"2\n24\n4\n","output":"2\n21 3\n4\n1 1 1 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\praka\\OneDrive\\Desktop\\program\\PALSUM.cpp","group":"local","local":true}
