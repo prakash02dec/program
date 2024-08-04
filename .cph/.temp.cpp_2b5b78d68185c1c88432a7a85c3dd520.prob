@@ -1,1 +1,0 @@
-{"name":"Local: temp","url":"c:\\Users\\praka\\OneDrive\\Desktop\\program\\temp.cpp","tests":[{"id":1637164071533,"input":"2\n2\n4 2\n2\n1 3","output":"4 26\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\praka\\OneDrive\\Desktop\\program\\temp.cpp","group":"local","local":true}

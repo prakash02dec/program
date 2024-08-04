@@ -1,0 +1,1 @@
+(fibosum(m) - fibosum(n-1)+ mod)%mod 
