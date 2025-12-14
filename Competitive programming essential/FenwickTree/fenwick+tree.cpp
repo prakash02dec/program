@@ -15,7 +15,7 @@ struct fenwick {
 		x++; // 1 based index
 		while (x < n) {
 			fn[x] += y;
-			x += (x & (-x));// last set bit
+			x += (x & (-x));// GET last set bit ADD THEN MOVE
 		}
 	}
 
@@ -28,7 +28,7 @@ struct fenwick {
 		int ans = 0;
 		while (x) {
 			ans += fn[x];
-			x -= (x & (-x));// last set bit
+			x -= (x & (-x));// GET last set bit THEN REMOVE
 		}
 		return ans;
 	}

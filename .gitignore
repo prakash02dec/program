@@ -42,3 +42,15 @@
 
 *.prob
 *.cph
+
+# macOS specific
+.DS_Store
+*.dSYM/
+build/
+out/
+.cmake/
+
+# Additional common artifacts
+*.log
+*.tmp
+*.swp
