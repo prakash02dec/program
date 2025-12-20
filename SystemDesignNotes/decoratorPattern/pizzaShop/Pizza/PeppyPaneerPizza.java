@@ -3,7 +3,7 @@ package Pizza ;
 public class PeppyPaneerPizza implements Pizza{
     @Override
     public String getDescription(){
-        return "Plain Pizza" ;
+        return "Peppy Paneer Pizza" ;
     }
 
     @Override

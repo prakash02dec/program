@@ -8,7 +8,7 @@ public class PaneerTopping extends ToppingDecorator {
     }
     @Override 
     public String getDescription(){
-        return pizza.getDescription() + "with paneer topping" ;
+        return pizza.getDescription() + " with paneer topping" ;
     }
 
     @Override
