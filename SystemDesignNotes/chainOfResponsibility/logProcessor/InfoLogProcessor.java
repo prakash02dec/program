@@ -2,21 +2,18 @@ package logProcessor ;
 
 public class InfoLogProcessor extends LogProcessor {
     public InfoLogProcessor(LogProcessor next){
-        super(INFO, next) ;
+        super(LogType.INFO, next) ;
     }
     
     public void print(String message){
         System.out.println("[INFO] : " + message) ; 
     }
-    public String getType(){
-        return "INFO" ; 
-    }
 
     @Override 
-    public void logMessage(int level , String message){
-        if(level > FATAL) 
+    public void logMessage(LogType type , String message){
+        if(type.getLevel() > LogType.FATAL.getLevel()) 
             throw new IllegalArgumentException("Unknown log level is being called") ;
 
-        super.logMessage(level, message) ;
+        super.logMessage(type, message) ;
     }
 }

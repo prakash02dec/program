@@ -2,31 +2,26 @@ package logProcessor ;
 
 public abstract class LogProcessor {
 
-    public final static int INFO = 1 ;
-    public final static int DEBUG = 2 ;
-    public final static int ERROR = 3 ;
-    public final static int FATAL = 4 ;
-
-    private int level ; 
+    private LogType type ; 
     private LogProcessor nextProcessor ; 
 
-    public LogProcessor(int level, LogProcessor next){
-        this.level = level; 
+    public LogProcessor(LogType type, LogProcessor next){
+        this.type = type; 
         this.nextProcessor = next ; 
     }
     
     public abstract void print(String message) ;
-    public abstract String getType() ;
 
-    public void logMessage(int level, String message){
-        System.out.println(getType() + " : Processing the log " ) ; 
+    public void logMessage(LogType type, String message){
+        System.out.println(this.type.toString() + " : Processing the log " ) ; 
 
-        if(this.level < level){
+        if(this.type.getLevel() < type.getLevel()){
             if(nextProcessor != null )
-                nextProcessor.logMessage(level, message);
+                nextProcessor.logMessage(type, message);
             
             return ;
         }
+        
         print(message) ; 
     }
     
