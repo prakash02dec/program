@@ -1,7 +1,7 @@
 package vendingMachine.state ; 
 
-import java.util.* ; 
 import item.* ;
+import java.util.* ;
 import vendingMachine.* ; 
 
 public abstract class VendingMachineState{
@@ -12,5 +12,5 @@ public abstract class VendingMachineState{
     public void selectProduct(VendingMachine obj, int code) throws Exception {} 
     public Item dispenseProduct(VendingMachine obj, int code) throws Exception { return null ; }
     public ArrayList<Coin> refundFullMoney(VendingMachine obj) throws Exception { return null ; }
-    public void cancel(VendingMachine obj) throws Exception { return ; }
+    public void cancel(VendingMachine obj) throws Exception {}
 }
